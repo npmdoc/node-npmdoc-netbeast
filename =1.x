@@ -2,8 +2,8 @@ npmdoc-netbeast@0.0.1 /home/travis/build/npmdoc/node-npmdoc-netbeast
 └─┬ superagent@3.5.2 
   ├── component-emitter@1.2.1 
   ├── cookiejar@2.1.1 
-  ├─┬ debug@2.6.3 
-  │ └── ms@0.7.2 
+  ├─┬ debug@2.6.4 
+  │ └── ms@0.7.3 
   ├─┬ form-data@2.1.4 
   │ ├── asynckit@0.4.0 
   │ ├─┬ combined-stream@1.0.5 

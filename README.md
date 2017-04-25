@@ -1,4 +1,7 @@
-# api documentation for  [netbeast (v1.1.0)](https://github.com/netbeast/api)  [![npm package](https://img.shields.io/npm/v/npmdoc-netbeast.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-netbeast) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-netbeast.svg)](https://travis-ci.org/npmdoc/node-npmdoc-netbeast)
+# npmdoc-netbeast
+
+#### basic api documentation for  [netbeast (v1.1.0)](https://github.com/netbeast/api)  [![npm package](https://img.shields.io/npm/v/npmdoc-netbeast.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-netbeast) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-netbeast.svg)](https://travis-ci.org/npmdoc/node-npmdoc-netbeast)
+
 #### Resources for node.js wrapper
 
 [![NPM](https://nodei.co/npm/netbeast.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/netbeast)
@@ -68,7 +71,8 @@
         "app": "node index.js",
         "test": "npm test"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
